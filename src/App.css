@@ -1,0 +1,16 @@
+html {
+  font-family: Arial;
+  background-color: #e6faff;
+}
+input, button {
+  border-radius: 5px;
+}
+.name {
+  margin-right: 2px;
+}
+.divader {
+  background-color: #6ba4ff;
+  box-shadow: 0px 0px 10px black;
+  height: 2px;
+  margin: 10px;
+}
